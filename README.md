@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sait ORHAN</h1>
+<h1 align="center">Sait ORHAN <img src="https://komarev.com/ghpvc/?username=saitorhan" alt="saitorhan" /> </h1>
 <h3 align="center">Bilgisayar Mühendisi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saitorhan" alt="saitorhan" /> </p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
