@@ -6,9 +6,9 @@
 | Web      | https://saitorhan.com                 |
 | ![alt text](https://github.com/saitorhan/saitorhan/blob/master/Media/mediumico.png "Sait ORHAN") Medium   | https://saitorhan.medium.com          |
 | ![alt text](https://github.com/saitorhan/saitorhan/blob/master/Media/linkedinico.png "Sait ORHAN") LinkedIn | https://www.linkedin.com/in/saitorhan |
-| YouTube  | https://www.youtube.com/saitorhan     |
-| Twitter  | https://twitter.com/saitorhan         |
-| Facebook | https://www.facebook.com/bmsaitorhan  |
+| ![alt text](https://github.com/saitorhan/saitorhan/blob/master/Media/youtube.png "Sait ORHAN") YouTube  | https://www.youtube.com/saitorhan     |
+| ![alt text](https://github.com/saitorhan/saitorhan/blob/master/Media/twitter.png "Sait ORHAN") Twitter  | https://twitter.com/saitorhan         |
+| ![alt text](https://github.com/saitorhan/saitorhan/blob/master/Media/facebook.png "Sait ORHAN") Facebook | https://www.facebook.com/bmsaitorhan  |
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitorhan&layout=compact" alt="saitorhan" /></p>
