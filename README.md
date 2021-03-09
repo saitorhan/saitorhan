@@ -4,7 +4,7 @@
 |          |         Sosyal Medya Hesaplarım                              |
 | -------- |:--------------------------------------|
 | Web      | https://saitorhan.com                 |
-| Medium   | https://saitorhan.medium.com          |
+| ![alt text](https://github.com/saitorhan/saitorhan/blob/master/Media/medium.png "Logo Title Text 1") Medium   | https://saitorhan.medium.com          |
 | LinkedIn | https://www.linkedin.com/in/saitorhan |
 | YouTube  | https://www.youtube.com/saitorhan     |
 | Twitter  | https://twitter.com/saitorhan         |
