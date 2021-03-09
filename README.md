@@ -17,8 +17,9 @@
 
     
   <td>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saitorhan&show_icons=true" alt="saitorhan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitorhan&layout=compact" alt="saitorhan" /></p>
+
 </td>
 </tr>
 </table>
