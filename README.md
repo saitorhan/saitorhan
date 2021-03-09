@@ -1,7 +1,7 @@
 <h1 align="center">Sait ORHAN <img src="https://komarev.com/ghpvc/?username=saitorhan" alt="saitorhan" /> </h1>
 <h3 align="center">Bilgisayar Mühendisi</h3>
 
-|          |                                       |
+|          |         Sosyal Medya Hesaplarım                              |
 | -------- |:--------------------------------------|
 | Web      | https://saitorhan.com                 |
 | Medium   | https://saitorhan.medium.com          |
