@@ -1,5 +1,5 @@
 <h1 align="center">Sait ORHAN <img src="https://komarev.com/ghpvc/?username=saitorhan" alt="saitorhan" /> </h1>
-<h3 align="center">Bilgisayar Mühendisi</h3>
+<h3 align="center">IT Specialist | Backend Developer | DBA</h3>
 
 <table>
   <tr>
