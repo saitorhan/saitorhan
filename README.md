@@ -20,11 +20,13 @@
     
   <td>
     
-|          |         Udemy Kurslarım                              |
+|          |         Udemy Kurslarım                        |
 | -------- |:--------------------------------------|
-| SAP BASIS Eğitimi      | https://tls.tc/sapbasis                |
+| SAP BASIS Eğitimi      | https://tls.tc/sapbasis         |
 
 
 </td>
 </tr>
+
+  
 </table>
