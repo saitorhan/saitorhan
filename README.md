@@ -3,11 +3,6 @@
 
 <table>
   <tr>
-    <td colspan="2">
-     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitorhan&margin-w=5" alt="saitorhan" /></a></p>
-    </td>
-    </tr>
-  <tr>
     <td>
             
 
@@ -28,9 +23,7 @@
 |          |         Udemy Kurslarım                              |
 | -------- |:--------------------------------------|
 | SAP BASIS Eğitimi      | https://tls.tc/sapbasis                |
-    
-    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saitorhan&show_icons=true" alt="saitorhan" /></p>
+
 
 </td>
 </tr>
