@@ -19,11 +19,13 @@
 
     
   <td>
+  Aşağıdaki linkleri kullanarak kurslara varsa aktif indirim kuponlarını otomatik olarak uygulayabilirsiniz.
+  
     
 |          |         Udemy Kurslarım                        |
 | -------- |:--------------------------------------|
-| SAP BASIS Eğitimi      | https://tls.tc/sapbasis         |
-| SAP ABAP Eğitimi      | https://tls.tc/sapabap         |
+| SAP BASIS Eğitimi      | https://saitorhan.com/basis.php         |
+| SAP ABAP Eğitimi      | https://saitorhan.com/abap.php         |
 
 
 </td>
