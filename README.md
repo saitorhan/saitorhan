@@ -25,6 +25,7 @@
     
 |          |         Udemy Kurslarım                        |
 | -------- |:--------------------------------------|
+| Udemy Eğitimleri      | https://saitorhan.com/udemy         |
 | SAP BASIS Eğitimi      | https://saitorhan.com/basis.php         |
 | SAP ABAP Eğitimi      | https://saitorhan.com/abap.php         |
 
