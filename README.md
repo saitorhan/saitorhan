@@ -2,6 +2,20 @@
 <h3 align="center">IT Specialist | Backend Developer | DBA</h3>
 
 <table>
+
+<tr>
+    <td>  
+    
+|          |         Udemy Kurslarım                        |
+| -------- |:--------------------------------------|
+| SQL Server ile SQL Öğreniyoruz      | https://www.udemy.com/course/sqlogreniyoruz/?referralCode=E5EE7E0CFBB4A14A4994         |
+| SAP BASIS Eğitimi      | https://www.udemy.com/course/sap-basis-egitimi/?referralCode=763D1BA73386CD2A13E8         |
+| SAP ABAP Eğitimi      | https://www.udemy.com/course/sapabapprogramlama/?referralCode=4D0F06C484A69E9AF3AA         |
+
+
+</td>
+</tr>
+  
   <tr>
     <td>
             
@@ -15,20 +29,8 @@
 | ![alt text](https://github.com/saitorhan/saitorhan/blob/master/Media/twitter.png "Sait ORHAN") Twitter  | https://twitter.com/saitorhan         |
 | ![alt text](https://github.com/saitorhan/saitorhan/blob/master/Media/kaggle.png "Sait ORHAN") Kaggle | https://www.kaggle.com/saitorhan  |
 
-
-    
-  <td>
-  Aşağıdaki linkleri kullanarak kurslara varsa aktif indirim kuponlarını otomatik olarak uygulayabilirsiniz.
-  
-    
-|          |         Udemy Kurslarım                        |
-| -------- |:--------------------------------------|
-| Udemy Eğitimleri      | https://saitorhan.com/udemy         |
-| SAP BASIS Eğitimi      | https://saitorhan.com/basis.php         |
-| SAP ABAP Eğitimi      | https://saitorhan.com/abap.php         |
-
-
 </td>
+
 </tr>
 
   
