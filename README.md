@@ -25,4 +25,4 @@ Bu fırsatları kaçırmayın!
 - 💼 **LinkedIn**: [LinkedIn Profili](https://www.linkedin.com/in/saitorhan)
 - 📹 **YouTube**: [YouTube Kanalı](https://www.youtube.com/saitorhan)
 - 🐦 **Twitter**: [Twitter Profili](https://twitter.com/saitorhan)
-- 📊 **Kaggle**: [Kaggle Profili](https://www.kaggle.com/saitorhan)
+
